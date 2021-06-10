@@ -4,8 +4,9 @@
 Implementation of Deep Clustering for Device Free Wi-Fi Fingerprinting Indoor Localization. 
 
 The Deep Clustering code is inherited and modified from [here](https://github.com/facebookresearch/deepcluster).
+<img src="https://github.com/aciculachen/CSI-DeepClustering/blob/master/overview.png" width="200" />
 
-![plot](https://github.com/aciculachen/CSI-DeepClustering/blob/master/overview.png  =100x20)
+![plot](https://github.com/aciculachen/CSI-DeepClustering/blob/master/overview.png)
 
 ## Features:
 
